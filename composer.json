@@ -17,7 +17,7 @@
   "require": {
     "php": "^7.1.3",
     "composer/installers": "~1.0",
-    "fadriqueclickennet/page-module": "master-dev"
+    "fadriqueclickennet/page-module": "dev-master"
   },
   "require-dev": {
     "phpunit/phpunit": "~7.5",
