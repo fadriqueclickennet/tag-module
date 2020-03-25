@@ -34,5 +34,6 @@
       "Modules\\": "Modules/"
     }
   },
+  "minimum-stability": "stable",
   "prefer-stable": true
 }
